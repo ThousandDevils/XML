@@ -1,1 +1,10 @@
-
+<summary>Короткое описание проблемы, явно указывающее на причину и тип бага</summary> 
+<description>шаги, окружение, полученный и ожидаемый результат</description>
+<project>Название тестируемого проекта</project> 
+<component>Название части или функции тестируемого продукта</component> 
+<version>версия продукта</version>
+<severity>Критичность</severity> 
+<priority>Приоритет</priority> 
+<status>Статус бага</status> 
+<attachment>прикрепленный файл</attachment> 
+<important>автор бага, на кого назначен</important>
